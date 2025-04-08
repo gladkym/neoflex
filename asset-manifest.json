@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/airpods-shop/static/css/main.4b39915e.css",
-    "main.js": "/airpods-shop/static/js/main.6aeac349.js",
-    "static/js/453.ed3810f9.chunk.js": "/airpods-shop/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/airpods-shop/index.html",
-    "main.4b39915e.css.map": "/airpods-shop/static/css/main.4b39915e.css.map",
-    "main.6aeac349.js.map": "/airpods-shop/static/js/main.6aeac349.js.map",
-    "453.ed3810f9.chunk.js.map": "/airpods-shop/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/neoflex/static/css/main.4b39915e.css",
+    "main.js": "/neoflex/static/js/main.99f71120.js",
+    "static/js/453.ed3810f9.chunk.js": "/neoflex/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/neoflex/index.html",
+    "main.4b39915e.css.map": "/neoflex/static/css/main.4b39915e.css.map",
+    "main.99f71120.js.map": "/neoflex/static/js/main.99f71120.js.map",
+    "453.ed3810f9.chunk.js.map": "/neoflex/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b39915e.css",
-    "static/js/main.6aeac349.js"
+    "static/js/main.99f71120.js"
   ]
 }
