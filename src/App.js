@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import data from "./components/back/Data/Data";
 import Header from "./components/front/Header/Header";
 import Route from "./components/front/Routes/Route";

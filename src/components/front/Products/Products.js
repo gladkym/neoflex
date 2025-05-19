@@ -21,7 +21,7 @@ const ProductSection = ({ title, products, handleAddProduct }) => (
             <div className="product-price">{productItem.price} ₽</div>
             <div className="product-rating">
               <img
-                src={process.env.PUBLIC_URL + "/pics/star.svg"}
+                src={process.env.PUBLIC_URL + "/pics/rating.svg"}
                 alt="Рейтинг"
               />
               {productItem.rating}
