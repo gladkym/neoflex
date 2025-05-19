@@ -5,7 +5,7 @@ const data = {
       name: "Apple BYZ S852I",
       type: "wired",
       price: 2927,
-      image: "./pics/image.png",
+      image: "/pics/earpods-2.png",
       rating: 4.7,
     },
     {
@@ -13,7 +13,7 @@ const data = {
       name: "Apple EarPods",
       type: "wired",
       price: 2327,
-      image: "./pics/EarPods.png",
+      image: "/pics/earpods.png",
       rating: 4.5,
 
     },
@@ -22,7 +22,7 @@ const data = {
       name: "Apple EarPods",
       type: "wired",
       price: 2327,
-      image: "./pics/Earpods Case.png",
+      image: "/pics/earpods-case.png",
       rating: 4.5,
     },
     {
@@ -30,7 +30,7 @@ const data = {
       name: "Apple BYZ S852I",
       type: "wired",
       price: 2927,
-      image: "./pics/image.png",
+      image: "/pics/earpods-2.png",
       rating: 4.7,
     },
     {
@@ -38,7 +38,7 @@ const data = {
       name: "Apple EarPods",
       type: "wired",
       price: 2327,
-      image: "./pics/EarPods.png",
+      image: "/pics/earpods.png",
       rating: 4.5,
     },
     {
@@ -46,7 +46,7 @@ const data = {
       name: "Apple EarPods",
       type: "wired",
       price: 2327,
-      image: "./pics/Earpods Case.png",
+      image: "/pics/earpods.png",
       rating: 4.5,
     },
     {
@@ -54,7 +54,7 @@ const data = {
       name: "Apple AirPods",
       type: "wireless",
       price: 9527,
-      image: "./pics/AirPods.png",
+      image: "/pics/airpods.png",
       rating: 4.7,
     },
     {
@@ -62,7 +62,7 @@ const data = {
       name: "GERLAX GH-04",
       type: "wireless",
       price: 6527,
-      image: "./pics/Gerlax.png",
+      image: "/pics/gerlax.png",
       rating: 4.7,
     },
     {
@@ -70,7 +70,7 @@ const data = {
       name: "BOROFONE BO4",
       type: "wireless",
       price: 7527,
-      image: "./pics/Borophone.png",
+      image: "/pics/borophone.png",
       rating: 4.7,
     },
   ],

@@ -1,4 +1,3 @@
-import React from "react";
 import "./Products.css";
 
 const ProductSection = ({ title, products, handleAddProduct }) => (
@@ -7,12 +6,17 @@ const ProductSection = ({ title, products, handleAddProduct }) => (
     <section className="products-section">
       {products.map((productItem) => (
         <div key={productItem.id} className="card">
-
-            <img
+          <img
+        className="product-image"
+        src={process.env.PUBLIC_URL + productItem.image}
+        alt={productItem.name}
+      />
+          
+            {/* <img
               className="product-image"
               src={productItem.image}
               alt={productItem.name}
-            />
+            /> */}
 
           <div className="product-info">
             <div>

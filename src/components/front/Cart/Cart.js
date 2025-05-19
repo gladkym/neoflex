@@ -36,7 +36,7 @@ const Cart = ({
                     <div className="cart-left">
                       <img
                         className="cart-items-image"
-                        src={item.image}
+                        src={process.env.PUBLIC_URL + item.image}
                         alt={item.name}
                       />
 
