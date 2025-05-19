@@ -76,7 +76,10 @@ const Cart = ({
                           className="clear-cart-button"
                           onClick={() => handleCartClearance(item)}
                         >
-                          <img src="./pics/delete.svg" alt="Clear Cart" />
+                          <img 
+                          src={process.env.PUBLIC_URL + "/pics/delete.svg"} 
+                          alt="Clear Cart" 
+                          />
                         </button>
                       )}
                     </div>
